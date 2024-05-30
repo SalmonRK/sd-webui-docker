@@ -16,6 +16,7 @@ MAMBA_PACKAGES=(
 PIP_PACKAGES=(
     "bitsandbytes==0.41.2.post2"
     "basicsr"
+    "torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 torchdata torchtext --index-url https://download.pytorch.org/whl/cu121"
   )
 
 EXTENSIONS=(
