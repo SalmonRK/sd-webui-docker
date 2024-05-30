@@ -73,7 +73,7 @@ ESRGAN_MODELS=(
     "https://huggingface.co/datasets/salmonrk/ESRGAN/resolve/main/4x_fatal_Anime_500000_G.pth"
 )
 
-CONTOLNET_MODELS=(
+CONTROLNET_MODELS=(
     "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.pth"
     "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.pth"
     "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth"
