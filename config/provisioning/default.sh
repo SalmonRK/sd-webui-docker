@@ -56,14 +56,19 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/265012"
     #blue_pencil-XL
     "https://civitai.com/api/download/models/429849"
+    #epiCRealism pureEvolution InPainting
+    "https://civitai.com/api/download/models/95864"
 )
 
 LORA_MODELS=(
+    #epinoise
     "https://civitai.com/api/download/models/16576"
+    #add detail
     "https://civitai.com/api/download/models/62833"
-    "https://civitai.com/api/download/models/16576"
+    #Sabai
+    "https://civitai.com/api/download/models/132876"
+    #add detail XL
     "https://civitai.com/api/download/models/135867"
-    
 )
 
 VAE_MODELS=(
