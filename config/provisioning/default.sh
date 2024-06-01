@@ -42,20 +42,20 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     #architecture_Exterior_SDlife_Chiasedamme
     "https://civitai.com/api/download/models/123908"
-	#Ryuzakimix_realistic
+    #Ryuzakimix_realistic
     "https://civitai.com/api/download/models/220771"
-	#majicMIX lux
-	"https://civitai.com/api/download/models/286238"
-	#Flat-2D Animerge
-	"https://civitai.com/api/download/models/266360"
-	#Juggernaut XL
+    #majicMIX lux
+    "https://civitai.com/api/download/models/286238"
+    #Flat-2D Animerge
+    "https://civitai.com/api/download/models/266360"
+    #Juggernaut XL
     "https://civitai.com/api/download/models/456194"
-	#Mix_9realisticSDXL
-	"https://civitai.com/api/download/models/163192"
-	#CounterfeitXL
-	"https://civitai.com/api/download/models/265012"
-	#blue_pencil-XL
-	"https://civitai.com/api/download/models/429849"
+    #Mix_9realisticSDXL
+    "https://civitai.com/api/download/models/163192"
+    #CounterfeitXL
+    "https://civitai.com/api/download/models/265012"
+    #blue_pencil-XL
+    "https://civitai.com/api/download/models/429849"
 )
 
 LORA_MODELS=(
