@@ -49,13 +49,13 @@ CHECKPOINT_MODELS=(
     #Flat-2D Animerge
     "https://civitai.com/api/download/models/266360"
     #Juggernaut XL
-    "https://civitai.com/api/download/models/456194"
+    #"https://civitai.com/api/download/models/456194"
     #Mix_9realisticSDXL
-    "https://civitai.com/api/download/models/163192"
+    #"https://civitai.com/api/download/models/163192"
     #CounterfeitXL
-    "https://civitai.com/api/download/models/265012"
+    #"https://civitai.com/api/download/models/265012"
     #blue_pencil-XL
-    "https://civitai.com/api/download/models/429849"
+    #"https://civitai.com/api/download/models/429849"
     #epiCRealism pureEvolution InPainting
     "https://civitai.com/api/download/models/95864"
 )
