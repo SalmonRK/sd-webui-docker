@@ -40,13 +40,22 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
+    #architecture_Exterior_SDlife_Chiasedamme
     "https://civitai.com/api/download/models/123908"
+	#Ryuzakimix_realistic
     "https://civitai.com/api/download/models/220771"
+	#majicMIX lux
+	"https://civitai.com/api/download/models/286238"
+	#Flat-2D Animerge
+	"https://civitai.com/api/download/models/266360"
+	#Juggernaut XL
     "https://civitai.com/api/download/models/456194"
-    #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
-    #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
-    #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
+	#Mix_9realisticSDXL
+	"https://civitai.com/api/download/models/163192"
+	#CounterfeitXL
+	"https://civitai.com/api/download/models/265012"
+	#blue_pencil-XL
+	"https://civitai.com/api/download/models/429849"
 )
 
 LORA_MODELS=(
