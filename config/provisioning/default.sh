@@ -69,6 +69,12 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/132876"
     #add detail XL
     "https://civitai.com/api/download/models/135867"
+    #bindbox
+    "https://civitai.com/api/download/models/32988"
+    #Manga-like
+    "https://civitai.com/api/download/models/28907"
+    #baifern
+    "https://civitai.com/api/download/models/76218"
 )
 
 VAE_MODELS=(
